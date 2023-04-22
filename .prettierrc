@@ -1,0 +1,8 @@
+{
+    "useTabs": true,
+    "arrowParens": "always",
+    "bracketSameLine": true,
+    "bracketSpacing": true,
+    "semi": true,
+    "insertPragma": true
+}
